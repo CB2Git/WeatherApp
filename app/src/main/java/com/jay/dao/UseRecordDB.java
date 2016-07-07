@@ -1,4 +1,4 @@
-﻿package com.jay.dao;
+package com.jay.dao;
 
 import android.content.ContentValues;
 import android.content.Context;

@@ -1,4 +1,4 @@
-﻿package com.jay.customview;
+package com.jay.customview;
 
 import android.content.Context;
 import android.graphics.RectF;

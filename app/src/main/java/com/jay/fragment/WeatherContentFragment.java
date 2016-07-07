@@ -1,4 +1,4 @@
-﻿package com.jay.fragment;
+package com.jay.fragment;
 
 import android.app.Activity;
 import android.os.Bundle;

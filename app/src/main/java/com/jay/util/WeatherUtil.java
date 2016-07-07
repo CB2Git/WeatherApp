@@ -1,4 +1,4 @@
-﻿package com.jay.util;
+package com.jay.util;
 
 import com.baidu.apistore.sdk.ApiCallBack;
 import com.baidu.apistore.sdk.ApiStoreSDK;

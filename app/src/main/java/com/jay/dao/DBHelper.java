@@ -1,4 +1,4 @@
-﻿package com.jay.dao;
+package com.jay.dao;
 
 import java.io.File;
 import java.io.FileOutputStream;

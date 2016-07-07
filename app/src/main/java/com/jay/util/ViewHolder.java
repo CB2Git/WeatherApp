@@ -1,4 +1,4 @@
-﻿package com.jay.util;
+package com.jay.util;
 
 import android.util.SparseArray;
 import android.view.View;
