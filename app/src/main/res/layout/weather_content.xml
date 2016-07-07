@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!-- 天气图标 -->
+
+    <ImageView
+        android:id="@+id/weatherIcon"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/w100" />
+
+    <LinearLayout
+        android:id="@+id/weatherContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/weatherIcon"
+        android:layout_marginTop="25dp"
+        android:background="#23232323"
+        android:orientation="horizontal"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp" >
+
+        <!-- 当前温度 -->
+
+        <TextView
+            android:id="@+id/nowTemp"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:paddingLeft="5dp"
+            android:text="--:--"
+            android:textColor="#ffffff"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <!-- 当前位置 -->
+
+            <TextView
+                android:id="@+id/location"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="--"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+
+            <!-- 当前天气 -->
+
+            <TextView
+                android:id="@+id/nowWeather"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="center"
+               android:text="--:--"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:paddingRight="5dp" >
+
+            <!-- 当前日期 -->
+
+            <TextView
+                android:id="@+id/nowDate"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="--:--"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+
+            <!-- 当前星期几 -->
+
+            <TextView
+                android:id="@+id/nowWeek"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:text="----"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- 最新更新时间 -->
+
+    <TextView
+        android:id="@+id/lastUpdateTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/weatherContent"
+        android:paddingRight="5dp"
+        android:text="--:--"
+        android:textColor="#ffffff"
+        android:textSize="14sp" />
+
+</RelativeLayout>

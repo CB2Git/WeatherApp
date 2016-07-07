@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" >
+
+    <!-- 顶部滑动切换ViewPager -->
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/weatherPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/below_detail"
+        android:background="@drawable/background" >
+    </android.support.v4.view.ViewPager>
+
+    <!-- 顶部添加城市按钮 -->
+
+    <ImageView
+        android:id="@+id/addCounty"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/add" />
+
+    <!-- 顶部刷新按钮 -->
+
+    <ImageView
+        android:id="@+id/flushWeather"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/flush"
+        android:padding="15dp" />
+
+    <!-- 底部未来几天天气详细布局 -->
+    <!-- weather_buttom_detail.xml 里面为每一天的布局 -->
+    <ListView
+        android:background="#ffffff"
+        android:id="@+id/below_detail"
+        android:layout_width="match_parent"
+        android:layout_height="225dp"
+        android:layout_alignParentBottom="true"
+        android:scrollbars="none"
+        android:listSelector="@drawable/lv_selector"
+        android:dividerPadding="1dp" >
+    </ListView>
+</RelativeLayout>

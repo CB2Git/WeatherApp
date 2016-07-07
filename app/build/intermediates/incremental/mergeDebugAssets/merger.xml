@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="19.1.0"><source path="F:\apk\AddressSelect\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\assets"/></dataSet><dataSet config="main"><source path="F:\apk\AddressSelect\app\src\main\assets"><file name="CityDB.db" path="F:\apk\AddressSelect\app\src\main\assets\CityDB.db"/></source></dataSet><dataSet config="debug"><source path="F:\apk\AddressSelect\app\src\debug\assets"/></dataSet></merger>

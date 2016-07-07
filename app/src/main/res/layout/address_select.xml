@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_title" />
+
+    <com.jay.customview.SuperEditText
+        android:id="@+id/superedit"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginBottom="7dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="7dp"
+        android:background="@drawable/edit_shape"
+        android:hint="请输入城市名称"
+        android:maxLength="6"
+        android:textColor="#787878"
+        android:textSize="17sp" />
+
+    <Button
+        android:id="@+id/location"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/location_shape"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="正在定位..."
+        android:textColor="#232323"
+        android:textSize="17sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ListView
+            android:id="@+id/citylist"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="#00000000"
+            android:listSelector="@drawable/lv_selector"
+            android:scrollbars="none" >
+        </ListView>
+
+        <com.jay.customview.IndexView
+            android:id="@+id/indexview"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true" />
+    </RelativeLayout>
+
+</LinearLayout>

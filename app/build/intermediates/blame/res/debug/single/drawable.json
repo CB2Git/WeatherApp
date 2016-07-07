@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\flush.png",
+        "source": "F:\\apk\\AddressSelect\\app\\src\\main\\res\\drawable\\flush.png"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location_shape.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\src\\main\\res\\drawable\\location_shape.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "F:\\apk\\AddressSelect\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel.png",
+        "source": "F:\\apk\\AddressSelect\\app\\src\\main\\res\\drawable\\cancel.png"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lv_selector.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\src\\main\\res\\drawable\\lv_selector.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "F:\\apk\\AddressSelect\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "F:\\apk\\AddressSelect\\app\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "F:\\apk\\AddressSelect\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit_shape.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\src\\main\\res\\drawable\\edit_shape.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\divide_line.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\src\\main\\res\\drawable\\divide_line.xml"
+    },
+    {
+        "merged": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "F:\\apk\\AddressSelect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    }
+]

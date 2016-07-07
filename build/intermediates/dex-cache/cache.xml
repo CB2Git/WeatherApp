@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\apk\AddressSelect\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="F:\apk\AddressSelect\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0_43753dcd90dc62c854b989cb213cac7a71590d6a.jar" />
+    </item>
+    <item
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\apk\AddressSelect\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_be220b38eb335326b6406b05fa5b60644c539549.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jay\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="F:\apk\AddressSelect\app\build\intermediates\pre-dexed\debug\gson-2.3.1_cfb5cad46fb46e5fa92a41862f88f5387e537c19.jar" />
+    </item>
+    <item
+        jar="F:\apk\AddressSelect\app\libs\ApiStoreSDK1.0.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9afb5799c44dbae661e6ed1dd0ea71586ac2683f">
+        <dex dex="F:\apk\AddressSelect\app\build\intermediates\pre-dexed\debug\ApiStoreSDK1.0.4_e1b070b5ecf961f5cccc34116108700f78ceb0c5.jar" />
+    </item>
+    <item
+        jar="F:\apk\AddressSelect\app\libs\locSDK_6.23.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c477374453afd5ce824bc3b8ce68fe0e17b63b15">
+        <dex dex="F:\apk\AddressSelect\app\build\intermediates\pre-dexed\debug\locSDK_6.23_30096a8162f0e0bd643a00e88483aafa5ce03c8f.jar" />
+    </item>
+    <item
+        jar="F:\apk\AddressSelect\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="F:\apk\AddressSelect\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_2b99df0c9176cc50c18cab2d130fc5c6594f44d5.jar" />
+    </item>
+
+</items>
